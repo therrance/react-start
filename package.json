@@ -1,0 +1,14 @@
+{
+  "name": "react-start",
+  "version": "1.0.0",
+  "description": "React start",
+  "main": "index.html",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Taras Gordiienko",
+  "license": "MIT",
+  "devDependencies": {
+    "express": "^4.17.1"
+  }
+}
